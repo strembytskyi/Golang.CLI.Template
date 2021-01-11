@@ -1,4 +1,4 @@
-# Шаблон CLI  
+# Template CLI  
 ```
 bash ./prepare.sh cliname
 ```  
